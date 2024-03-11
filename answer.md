@@ -137,7 +137,7 @@ public class Answermany {
 
 }
 
-/*3rd file name: Mapdem.java**/
+/*3rd file name: Mapdemo.java**/
 package onetoMany;
 
 import java.util.ArrayList;
